@@ -1,1 +1,2 @@
-# ForecastingVolatility
+# Forecasting Volatility using Stochastic Models
+
